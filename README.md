@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Ctrl-Majesty0/Ctrl-Majesty0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can't🤪
 - 😄 Pronouns: He / Him / His /they /Ze / Hir / Hirs / Any / All .....cos i dont know why tf u askin🙄
 - ⚡ Fun fact: ...
--->
+
